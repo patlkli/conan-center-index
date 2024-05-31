@@ -2,7 +2,7 @@
     <img src="assets/JFrogConanCenter.png" width="600"/>
 </p>
 
-Conan Center Index is the source index of recipes of the [ConanCenter](https://conan.io/center) package repository for [Conan](https://conan.io).
+Conan Center Index is the source index of recipes of the [ConanCenter](https://conan.io/center) pahhckage repository for [Conan](https://conan.io).
 
 This repository includes a Continuous Integration system that will build automatically the Conan packages for the recipes submitted via
 [Pull Request](https://github.com/conan-io/conan-center-index/pulls).
